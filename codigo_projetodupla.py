@@ -6,10 +6,10 @@ def multiplo (a,b):
         return False
 
 
-valor =(input("digite um valor:"))
+valor = int(input("digite um valor:"))
 valor2=int(input("digite outro valor:"))
 
-resultado= (valor, valor)
+resultado= multiplo (valor, valor2)
 
 if resultado:
     print("os numeros são multiplos")

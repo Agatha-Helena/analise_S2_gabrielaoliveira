@@ -15,9 +15,3 @@ if resultado:
     print("os numeros são multiplos")
 else:
     print("não são multiplos")
-
-
-
-
-
-
